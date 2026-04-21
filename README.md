@@ -1,4 +1,4 @@
->[!NOTE]
+> [!NOTE]
 > **[📢 New: Shannon is now available via `npx @keygraph/shannon`. →](https://github.com/KeygraphHQ/shannon/discussions/249)**
 
 <div align="center">
